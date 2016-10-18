@@ -7,8 +7,8 @@ Steve Connelly has a more thoughtful blogpost on this topic: http://www.objectpa
 
 My goal was to get a local Kafka instance running with the minimim of effort. To provision:
 
-    git clone https://github.com/alexwoolford/vagrantKafkaBox
-    cd vagrantKafkaBox
+    git clone https://github.com/alexwoolford/vagrant_kafkabox
+    cd vagrant_kafkabox
     vagrant up
 
 You can test using kafka-python:
